@@ -18,3 +18,4 @@
  - UI Frameworks: Java Swing, AWT
  - Database (Optional): MySQL/SQLite (via JDBC)
  - IDE Recommended: IntelliJ IDEA, Eclipse, or NetBeans
+
